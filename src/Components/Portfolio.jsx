@@ -31,28 +31,24 @@ const imageAltText = "Shashank Kumar Srivastava";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Analysis Of Sample Superstore",
+    description: "IBM Edunet Data Analysis Internship Project",
+    url: "https://github.com/shashank0412/Analysis-of-sample-superstore-",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "College Network Topology",
+    description: "Cisco Cybersecurity Internship Project",
+    url: "https://github.com/shashank0412/Cisco-Cybersecurity-Virtual-Internship-2023",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Digital Clock",
+    description: "Digital CLock Using C++",
+    url: "https://github.com/shashank0412/Digital-Clock",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Task",
+    description: "Internship Task",
+    url: "https://github.com/shashank0412/TAIRP",
   },
 ];
 
