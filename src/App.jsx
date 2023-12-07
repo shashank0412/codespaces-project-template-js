@@ -27,6 +27,7 @@ const siteProps = {
   name: "Shashank Kumar Srivastava",
   title: "Web Developer & Programmer",
   email: "shashanksrivastav9800@gmail.com",
+  email: "shashank.kumarsrivastava@studentambassador.com",
   gitHub: "https://github.com/shashank0412",
   instagram: "https://www.instagram.com/_invincible_aryan/",
   linkedIn: "https://www.linkedin.com/in/shashank-kumar-srivastava-5b9717224/",
