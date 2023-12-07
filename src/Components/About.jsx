@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "src/images/image1.jpg";
+import image from "src/images/2.jpg";
 
 const imageAltText = "Shashank Kumar Srivastava";
 
